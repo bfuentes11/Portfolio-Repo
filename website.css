@@ -1,6 +1,14 @@
-﻿body
-{
-    .thanks_for{
+﻿
+body {
+    background-color: #1C1B1BDB
+}
 
-               }
+.LandingPage{
+    text-align: center; 
+    position: relative;
+    
+}
+
+.ProfilePhoto{
+   transform: translate(700px,223px);
 }
